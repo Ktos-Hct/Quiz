@@ -1,0 +1,21 @@
+1)A - Compile error - break không trong vòng lập
+2)A - No output - cấu trúc đúng chương trình chính trống
+3)B - 60 13 - 
+4)B - false - Không có kiểu string
+5)A - 5 9 - \0 = Null và Hello + Hi + 2 Null chiếm 1x9
+6)B - By using L after 3.14
+7)B - All are helpful in defining new data types
+8)B - char *p = (char*)malloc(100);
+9)D - None of the above - ptr là một con trỏ trỏ đến mảng 10 số nguyên
+10)C - pf is a function pointer
+11)D - The for loop would get executed infinite times - là mộ vòng lập vô hạn lần
+vì scanf sẽ luôn chờ và trả về đầu vào đã nhập nên nó luôn đúng.
+12)B - 1 vì 10<20 đúng kết quả là True=1,1<5 kết quả là True=1.
+13)C - gets();
+14)B - No
+15)C - eno
+16)B - 8
+17)A - str1=IndiaBIX str2=BIX #là tên biến
+18)A -Yes đây là phép đảo
+19)A - 5 
+20)D - No output char str khai báo một kí tự mà nhập vào một mảng
